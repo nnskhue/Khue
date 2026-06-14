@@ -1,6 +1,6 @@
 # AIDEOM-VN — Mô hình ra quyết định phát triển kinh tế Việt Nam
 
-**Họ và tên:** Nguyễn Bảo Khánh · **Mã sinh viên:** 23051266
+**Họ và tên:** Nguyễn Minh Khuê · **Mã sinh viên:** 23051273
 **Bài tập lớn:** Các mô hình ra quyết định
 
 ## Chạy
